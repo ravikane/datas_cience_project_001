@@ -1,3 +1,5 @@
 numpy
 pandas
--e . #-e . automatically run the setup.py
+# -e . #-e . automatically run the setup.py
+
+ 
